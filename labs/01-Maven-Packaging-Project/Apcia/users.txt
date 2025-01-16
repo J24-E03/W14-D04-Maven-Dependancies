@@ -1,0 +1,2 @@
+Aron,1991-alo,76210a56f6cd0bd78dfe57a05d9681ea5c0df2b32feb06490706c1d0aed230ed,UkoWEo,Account Number: 915217 Balance:550.0 Kr
+Omar,1234-abc,ed2ab7a2098432cbfe94c7f037f203f9cef1171373d93c1325d1ed3d865aec0e,AAMtqv,Account Number: 681823 Balance:40.0 Kr
